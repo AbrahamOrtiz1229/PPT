@@ -1,9 +1,12 @@
-# Piedra Papel Tijera
+# Piedra, Papel o Tijera
 Juego de piedra papel o tijera de la Semana Tec "Herramientas computacionales: el arte de la programación (Gpo 121)"
 Integrantes:
   Alan Iván Flores Juárez | A01736001
   Abraham Ortiz Castro | A01736196
   Ulises Hernández Hernández | A01735823
+  
+![PPT](https://github.com/AbrahamOrtiz1229/PPT/assets/127231224/356ff138-825d-4632-933c-124f95e8a365)
+
 Juego:
   EL juego consta de dos pantallas principales y un mensaje de alerta:
     --la primera de las cuales muestra  las tres imágenes y un botón que permite inicar el juego.
