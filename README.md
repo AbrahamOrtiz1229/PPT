@@ -26,15 +26,17 @@ Juego:
 
 
 Lógica implementada:
+
   EL juego funciona implementando tres condicionales if dentro de cada una de las fucniones de cada botón (imágenes), 
   para esto se genera un número random de 1 a 3 asemejando la jugada de la computadora, determinando así el resultado del juego y el mensaje a desplegar al jugador.
 
 
 Assest utilzados:
+
   **Imágen de una piedra en png
 
   
   **Imágen de un papel en png
 
   
-  *I*mágen de una tijera en png
+  **Imágen de una tijera en png
