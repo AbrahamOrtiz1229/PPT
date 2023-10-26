@@ -2,6 +2,7 @@
 Juego de piedra papel o tijera de la Semana Tec "Herramientas computacionales: el arte de la programación (Gpo 121)"
 
 Integrantes:
+
   Alan Iván Flores Juárez | A01736001
   
   Abraham Ortiz Castro | A01736196
