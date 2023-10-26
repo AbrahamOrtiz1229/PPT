@@ -13,9 +13,9 @@ Integrantes:
 
 Juego:
   EL juego consta de dos pantallas principales y un mensaje de alerta:
-  *la primera de las cuales muestra  las tres imágenes y un botón que permite inicar el juego.
-  *Ls segunda le permite al jugador seleccionar que jugada realizar (selecciona entre piedra, papel o tijera)
-  *El mensaje de alerta muestra el resultado (ganador, perdedor y empate) así como la jugada realizada por la computadora.
+  **la primera de las cuales muestra  las tres imágenes y un botón que permite inicar el juego.
+  **La segunda le permite al jugador seleccionar que jugada realizar (selecciona entre piedra, papel o tijera)
+  **El mensaje de alerta muestra el resultado (ganador, perdedor y empate) así como la jugada realizada por la computadora.
 
 
 Lógica implementada:
@@ -24,6 +24,6 @@ Lógica implementada:
 
 
 Assest utilzados:
-  *Imágen de una piedra en png
-  *Imágen de un papel en png
-  *Imágen de una tijera en png
+  **Imágen de una piedra en png
+  **Imágen de un papel en png
+  *I*mágen de una tijera en png
