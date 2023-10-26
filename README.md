@@ -15,7 +15,7 @@ Juego:
   EL juego consta de dos pantallas principales y un mensaje de alerta:
 
   
-  **la primera de las cuales muestra  las tres imágenes y un botón que permite inicar el juego.
+  **La primera de las cuales muestra  las tres imágenes y un botón que permite inicar el juego.
 
   
   **La segunda le permite al jugador seleccionar que jugada realizar (selecciona entre piedra, papel o tijera)
